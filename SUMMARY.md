@@ -4,6 +4,8 @@
 
 * [My Awesome API](README.md)
 
-## Methods
+## Modules
 
-* [Defining Methods](methods.md)
+* [用户管理](methods.md)
+* 资源池
+
