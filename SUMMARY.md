@@ -7,5 +7,6 @@
 ## Modules
 
 * [用户管理](methods.md)
-* 资源池
+* [资源池](zi-yuan-chi.md)
+* 搜索
 
